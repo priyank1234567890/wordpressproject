@@ -1,12 +1,12 @@
 # wordpressproject
 
-GitHub URL - https://github.com/priyank1234567890/wordpressproject.git
+Database Path: database/test.sql
 
-For PHPCS add composer using below command:
+Replace path in the database
+
+Database detail changes in wp-config.php
+
+In admin add SMTP details for email send.
+
+Below command is used for PHPCS:
 composer require --dev automattic/vipwpcs dealerdirect/phpcodesniffer-composer-installer
-
-DB Path: database/test.sql
-
-DB detail chnages in wp-config.php
-
-In admin SMTP details change after add it then emails are working
