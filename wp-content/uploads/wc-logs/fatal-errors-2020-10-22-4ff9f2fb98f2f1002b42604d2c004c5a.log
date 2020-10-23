@@ -1,0 +1,62 @@
+2020-10-22T11:02:26+00:00 CRITICAL Uncaught Error: Unsupported operand types in D:\wamp64\www\test\wp-content\themes\twentytwenty-child\functions.php:28
+Stack trace:
+#0 D:\wamp64\www\test\wp-includes\class-wp-hook.php(287): misha_total_sales_1(Array)
+#1 D:\wamp64\www\test\wp-includes\plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 D:\wamp64\www\test\wp-admin\includes\screen.php(37): apply_filters('manage_edit-pro...', Array)
+#3 D:\wamp64\www\test\wp-admin\includes\class-wp-screen.php(995): get_column_headers(Object(WP_Screen))
+#4 D:\wamp64\www\test\wp-admin\includes\class-wp-screen.php(956): WP_Screen->show_screen_options()
+#5 D:\wamp64\www\test\wp-admin\admin-header.php(270): WP_Screen->render_screen_meta()
+#6 D:\wamp64\www\test\wp-admin\edit.php(386): require_once('D:\\wamp64\\www\\t...')
+#7 {main}
+  thrown in D:\wamp64\www\test\wp-content\themes\twentytwenty-child\functions.php on line 28
+
+2020-10-22T11:02:32+00:00 CRITICAL Uncaught Error: Unsupported operand types in D:\wamp64\www\test\wp-content\themes\twentytwenty-child\functions.php:28
+Stack trace:
+#0 D:\wamp64\www\test\wp-includes\class-wp-hook.php(287): misha_total_sales_1(Array)
+#1 D:\wamp64\www\test\wp-includes\plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 D:\wamp64\www\test\wp-admin\includes\screen.php(37): apply_filters('manage_edit-pro...', Array)
+#3 D:\wamp64\www\test\wp-admin\includes\class-wp-screen.php(995): get_column_headers(Object(WP_Screen))
+#4 D:\wamp64\www\test\wp-admin\includes\class-wp-screen.php(956): WP_Screen->show_screen_options()
+#5 D:\wamp64\www\test\wp-admin\admin-header.php(270): WP_Screen->render_screen_meta()
+#6 D:\wamp64\www\test\wp-admin\edit.php(386): require_once('D:\\wamp64\\www\\t...')
+#7 {main}
+  thrown in D:\wamp64\www\test\wp-content\themes\twentytwenty-child\functions.php on line 28
+
+2020-10-22T12:25:26+00:00 CRITICAL syntax error, unexpected '<', expecting end of file in D:\wamp64\www\test\wp-content\themes\twentytwenty-child\functions.php on line 66
+
+2020-10-22T16:08:36+00:00 CRITICAL Cannot redeclare prefix_after_cart_item_name() (previously declared in D:\wamp64\www\test\wp-content\themes\twentytwenty-child\functions.php:21) in D:\wamp64\www\test\wp-content\plugins\custom-plugin\custom-plugin.php on line 92
+
+2020-10-22T16:08:38+00:00 CRITICAL Cannot redeclare prefix_after_cart_item_name() (previously declared in D:\wamp64\www\test\wp-content\themes\twentytwenty-child\functions.php:21) in D:\wamp64\www\test\wp-content\plugins\custom-plugin\custom-plugin.php on line 92
+
+2020-10-22T16:08:38+00:00 CRITICAL Cannot redeclare prefix_after_cart_item_name() (previously declared in D:\wamp64\www\test\wp-content\themes\twentytwenty-child\functions.php:21) in D:\wamp64\www\test\wp-content\plugins\custom-plugin\custom-plugin.php on line 92
+
+2020-10-22T16:12:50+00:00 CRITICAL Cannot redeclare prefix_after_cart_item_name() (previously declared in D:\wamp64\www\test\wp-content\themes\twentytwenty-child\functions.php:21) in D:\wamp64\www\test\wp-content\plugins\custom-plugin\custom-plugin.php on line 126
+
+2020-10-22T16:12:52+00:00 CRITICAL Cannot redeclare prefix_after_cart_item_name() (previously declared in D:\wamp64\www\test\wp-content\themes\twentytwenty-child\functions.php:21) in D:\wamp64\www\test\wp-content\plugins\custom-plugin\custom-plugin.php on line 126
+
+2020-10-22T16:12:52+00:00 CRITICAL Cannot redeclare prefix_after_cart_item_name() (previously declared in D:\wamp64\www\test\wp-content\themes\twentytwenty-child\functions.php:21) in D:\wamp64\www\test\wp-content\plugins\custom-plugin\custom-plugin.php on line 126
+
+2020-10-22T16:13:08+00:00 CRITICAL syntax error, unexpected '$notes' (T_VARIABLE), expecting '{' in D:\wamp64\www\test\wp-content\plugins\custom-plugin\custom-plugin.php on line 117
+
+2020-10-22T16:13:10+00:00 CRITICAL syntax error, unexpected '$notes' (T_VARIABLE), expecting '{' in D:\wamp64\www\test\wp-content\plugins\custom-plugin\custom-plugin.php on line 117
+
+2020-10-22T16:13:10+00:00 CRITICAL syntax error, unexpected '$notes' (T_VARIABLE), expecting '{' in D:\wamp64\www\test\wp-content\plugins\custom-plugin\custom-plugin.php on line 117
+
+2020-10-22T16:13:35+00:00 CRITICAL Cannot redeclare prefix_after_cart_item_name() (previously declared in D:\wamp64\www\test\wp-content\themes\twentytwenty-child\functions.php:21) in D:\wamp64\www\test\wp-content\plugins\custom-plugin\custom-plugin.php on line 125
+
+2020-10-22T16:13:37+00:00 CRITICAL Cannot redeclare prefix_after_cart_item_name() (previously declared in D:\wamp64\www\test\wp-content\themes\twentytwenty-child\functions.php:21) in D:\wamp64\www\test\wp-content\plugins\custom-plugin\custom-plugin.php on line 125
+
+2020-10-22T16:13:37+00:00 CRITICAL Cannot redeclare prefix_after_cart_item_name() (previously declared in D:\wamp64\www\test\wp-content\themes\twentytwenty-child\functions.php:21) in D:\wamp64\www\test\wp-content\plugins\custom-plugin\custom-plugin.php on line 125
+
+2020-10-22T16:14:34+00:00 CRITICAL Cannot redeclare prefix_after_cart_item_name() (previously declared in D:\wamp64\www\test\wp-content\themes\twentytwenty-child\functions.php:21) in D:\wamp64\www\test\wp-content\plugins\custom-plugin\custom-plugin.php on line 91
+
+2020-10-22T16:14:36+00:00 CRITICAL Cannot redeclare prefix_after_cart_item_name() (previously declared in D:\wamp64\www\test\wp-content\themes\twentytwenty-child\functions.php:21) in D:\wamp64\www\test\wp-content\plugins\custom-plugin\custom-plugin.php on line 91
+
+2020-10-22T16:14:36+00:00 CRITICAL Cannot redeclare prefix_after_cart_item_name() (previously declared in D:\wamp64\www\test\wp-content\themes\twentytwenty-child\functions.php:21) in D:\wamp64\www\test\wp-content\plugins\custom-plugin\custom-plugin.php on line 91
+
+2020-10-22T16:14:46+00:00 CRITICAL Cannot redeclare prefix_after_cart_item_name() (previously declared in D:\wamp64\www\test\wp-content\themes\twentytwenty-child\functions.php:21) in D:\wamp64\www\test\wp-content\plugins\custom-plugin\custom-plugin.php on line 91
+
+2020-10-22T16:14:48+00:00 CRITICAL Cannot redeclare prefix_after_cart_item_name() (previously declared in D:\wamp64\www\test\wp-content\themes\twentytwenty-child\functions.php:21) in D:\wamp64\www\test\wp-content\plugins\custom-plugin\custom-plugin.php on line 91
+
+2020-10-22T16:14:48+00:00 CRITICAL Cannot redeclare prefix_after_cart_item_name() (previously declared in D:\wamp64\www\test\wp-content\themes\twentytwenty-child\functions.php:21) in D:\wamp64\www\test\wp-content\plugins\custom-plugin\custom-plugin.php on line 91
+

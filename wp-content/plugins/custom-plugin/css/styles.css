@@ -1,0 +1,16 @@
+.postbox label {
+    width: 200px;
+    display: inline-block;
+	vertical-align: top;
+}
+.red{
+	color:red;
+}
+.note{
+	margin-left: 206px;
+    display: inline-block;
+}
+input[type=text],input[type=email],input[type=number], textarea{
+	width:500px;
+}
+	
